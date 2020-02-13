@@ -1,0 +1,3 @@
+configurar credenciales
+git remote add origin git@github.com: E25dgar / java3A.git
+ git push -u origin master
