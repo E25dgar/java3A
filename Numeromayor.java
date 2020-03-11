@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Numeromayor {
 
     public static void main(String[] args) {
-        
+        Scanner entrada;
         Scanner entrada=new entrada(System.in);
         
         int n1, n2, n3, n4;
